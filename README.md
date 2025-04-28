@@ -54,14 +54,18 @@ t_d_list/
 │       ├── register.js       # 注册逻辑
 │       └── memo.js           # 备忘录管理逻辑
 └── README.md                 # 项目说明文档
-
-
 ```
-###未来计划 Future Plans
-	•	引入Docker部署
-	•	添加图片上传功能
-	•	支持Memo标签分类
-	•	前端使用Vue3重构
-	•	后端增加Swagger API文档
+
+---
+
+## 未来计划 Future Plans
+- 引入Docker部署
+- 添加图片上传功能
+- 支持Memo标签分类
+- 前端使用Vue3重构
+- 后端增加Swagger API文档
+
+---
+
 Any advice can contact with me 
 my email: gongzichen77@gmail.com
